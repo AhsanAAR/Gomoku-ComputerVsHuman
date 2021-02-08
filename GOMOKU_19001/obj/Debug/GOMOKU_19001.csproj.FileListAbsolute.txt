@@ -1,0 +1,10 @@
+D:\VS Projects\GOMOKU_19001\GOMOKU_19001\bin\Debug\GOMOKU_19001.exe.config
+D:\VS Projects\GOMOKU_19001\GOMOKU_19001\bin\Debug\GOMOKU_19001.exe
+D:\VS Projects\GOMOKU_19001\GOMOKU_19001\bin\Debug\GOMOKU_19001.pdb
+D:\VS Projects\GOMOKU_19001\GOMOKU_19001\obj\Debug\GOMOKU_19001.GameWindow.resources
+D:\VS Projects\GOMOKU_19001\GOMOKU_19001\obj\Debug\GOMOKU_19001.Properties.Resources.resources
+D:\VS Projects\GOMOKU_19001\GOMOKU_19001\obj\Debug\GOMOKU_19001.csproj.GenerateResource.cache
+D:\VS Projects\GOMOKU_19001\GOMOKU_19001\obj\Debug\GOMOKU_19001.csproj.CoreCompileInputs.cache
+D:\VS Projects\GOMOKU_19001\GOMOKU_19001\obj\Debug\GOMOKU_19001.exe
+D:\VS Projects\GOMOKU_19001\GOMOKU_19001\obj\Debug\GOMOKU_19001.pdb
+D:\VS Projects\GOMOKU_19001\GOMOKU_19001\obj\Debug\GOMOKU_19001.csprojAssemblyReference.cache
